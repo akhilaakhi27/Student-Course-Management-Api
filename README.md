@@ -122,8 +122,8 @@ POST /api/auth/register
 
 ## Access Control Summary
 
-|Role|	|Permissions|
-|Admin|	|Full control (CRUD + Assign + Progress)|
-|Student|  |Login and view own progress|
+| Role |	| Permissions |
+| Admin |	| Full control (CRUD + Assign + Progress) |
+| Student |  | Login and view own progress |
 
 
