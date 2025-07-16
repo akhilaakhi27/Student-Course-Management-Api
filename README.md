@@ -102,8 +102,13 @@ student-course-api/
 ## Setup Instructions
 1. Clone repo
 2. Run `npm install`
-3. Set up `.env`
-4. Run with `nodemon`
+3. Create a `.env` in the root
+
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/studentCourseDB
+JWT_SECRET=your_jwt_secret
+
+4. Run with `nodemon server.js`
 
 ## Sample Request:Register
 
